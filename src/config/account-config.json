@@ -1,0 +1,125 @@
+{
+  "account": {
+    "nickname": "lv.track.ag",
+    "region": "IND"
+  },
+  "progress": {
+    "currentLevel": 27,
+    "nextLevel": 28,
+    "currentExp": 37706,
+    "expToNextLevel": 98,
+    "totalExp": 28998,
+    "progressPercentage": 97.08,
+    "playedMatches": 3258
+  },
+  "levels": [
+    {
+      "level": 2,
+      "expRequired": 48
+    },
+    {
+      "level": 3,
+      "expRequired": 148
+    },
+    {
+      "level": 4,
+      "expRequired": 298
+    },
+    {
+      "level": 5,
+      "expRequired": 498
+    },
+    {
+      "level": 6,
+      "expRequired": 748
+    },
+    {
+      "level": 7,
+      "expRequired": 1048
+    },
+    {
+      "level": 8,
+      "expRequired": 1398
+    },
+    {
+      "level": 9,
+      "expRequired": 1798
+    },
+    {
+      "level": 10,
+      "expRequired": 2248
+    },
+    {
+      "level": 11,
+      "expRequired": 2748
+    },
+    {
+      "level": 12,
+      "expRequired": 3298
+    },
+    {
+      "level": 13,
+      "expRequired": 3898
+    },
+    {
+      "level": 14,
+      "expRequired": 4548
+    },
+    {
+      "level": 15,
+      "expRequired": 5248
+    },
+    {
+      "level": 16,
+      "expRequired": 5998
+    },
+    {
+      "level": 17,
+      "expRequired": 6798
+    },
+    {
+      "level": 18,
+      "expRequired": 7648
+    },
+    {
+      "level": 19,
+      "expRequired": 8548
+    },
+    {
+      "level": 20,
+      "expRequired": 9498
+    },
+    {
+      "level": 21,
+      "expRequired": 10498
+    },
+    {
+      "level": 22,
+      "expRequired": 11548
+    },
+    {
+      "level": 23,
+      "expRequired": 12648
+    },
+    {
+      "level": 24,
+      "expRequired": 13798
+    },
+    {
+      "level": 25,
+      "expRequired": 14998
+    },
+    {
+      "level": 26,
+      "expRequired": 16248
+    },
+    {
+      "level": 27,
+      "expRequired": 17548
+    },
+    {
+      "level": 28,
+      "expRequired": 18898
+    }
+  ]
+}
